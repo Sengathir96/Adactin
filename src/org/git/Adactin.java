@@ -6,7 +6,12 @@ public class Adactin {
 		System.out.println("PassWord");
 	}
 
+	public static void print() {
+		System.out.println("UserName");
+	}
+
 	public static void main(String[] args) {
+		print();
 		print1();
 	}
 }
